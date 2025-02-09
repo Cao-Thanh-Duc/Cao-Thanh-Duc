@@ -1,5 +1,5 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<img align="right" width="64" src="https://avatars.githubusercontent.com/u/172926253?s=400&u=58cafb62f99e751c9ff5192cc97cd163894070a8&v=4" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Cao Thanh Duc</h2>
@@ -17,9 +17,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-<!--   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a> -->
+
   <a href="https://www.facebook.com/caothanhduc73/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
