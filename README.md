@@ -19,17 +19,17 @@
 <p align="center">
 
   <a href="https://www.facebook.com/caothanhduc73/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" target="_blank" />
   </a> 
   <a href="https://github.com/Cao-Thanh-Duc" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src=https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCdExEgG2DKr-_gMQ5nSDh9g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+    <img src="https://img.icons8.com/?size=100&id=9a46bTk3awwI&format=png&color=000000"/>
   </a>
  
   <a href="mailto:caothanhduc.bdqb@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"/>
   </a>
 </p>
 
