@@ -32,10 +32,7 @@
 " alt="Email">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"/>
   </a>
-   <a href="tel:0374018578
-" alt="Phone ">
-    <img src="https://img.icons8.com/?size=100&id=2olGSGqpqGWD&format=png&color=000000"/>
-  </a>
+   
 </p>
 
 ## Skills:
