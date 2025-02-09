@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me:
 
-<p align="center">
+<p align="left">
 
   <a href="https://www.facebook.com/caothanhduc73/" alt="Facebook">
     <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" target="_blank" />
