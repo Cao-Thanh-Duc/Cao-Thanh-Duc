@@ -9,10 +9,8 @@
 
 
 
-<br />
 
 
-(https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
 ## 📫 How to reach me:
 
