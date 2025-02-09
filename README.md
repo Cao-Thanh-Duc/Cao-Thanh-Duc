@@ -36,7 +36,7 @@
 ## Skills:
 <p align="center">
    <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
-<img src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000"/>
+
   <img src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000"/>
    <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"/>
    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
